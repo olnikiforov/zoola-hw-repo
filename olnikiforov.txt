@@ -2,3 +2,4 @@ Oleksandr
 Nikiforov
 School 322
 Telfon number: 32221238337
+Race:Human
