@@ -3,3 +3,4 @@ Nikiforov
 Telfon number: 32221238337
 Race:dwarf
 Time:13:01
+Birthdate:18.07
